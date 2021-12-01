@@ -1,6 +1,7 @@
 # CAS CBO Election Voting System
 
-Case Study in Mobile Application Development for N.Gonzales St. Brgy. San Jose Mandaluyong City, Oct 2020 - Feb 2021
+
+Final Project in Software Engineering for CAS CBO, Oct 2020 - Feb 2021
 
 
 Community Quarantine is one of the problem in our society due Covid 19 pandemic where every resident of barangay are prohibited to go outside and the assistance from the government are limited. The researcher are developing a mobile application for assistance distribution monitoring system to specific barangay, Barangay San Jose, Mandaluyong City is the main beneficiary  of the study. 
