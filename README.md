@@ -1,9 +1,8 @@
 # CAS CBO Election Voting System
 
-
 Final Project in Software Engineering for CAS CBO, Oct 2020 - Feb 2021
-
-
+<br>
+<br>
 Community Quarantine is one of the problem in our society due Covid 19 pandemic where every resident of barangay are prohibited to go outside and the assistance from the government are limited. The researcher are developing a mobile application for assistance distribution monitoring system to specific barangay, Barangay San Jose, Mandaluyong City is the main beneficiary  of the study. 
 <br>
 
